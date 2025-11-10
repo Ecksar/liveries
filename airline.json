@@ -50,47 +50,11 @@
             ]
         },
        "239": {
-            "index": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "parts": [
-                0,
-                18,
-                20,
-                21,
-                22,
-                23,
-                24,
-                25,
-                34
-            ],
-            "mp": [
-                {
-                    "modelIndex": 1,
-                    "textureIndex": 0
-                }
-            ],
             "name": "Airbus a350-900",
             "liveries": [
               {
                   "name":  "Pan Am",
                   "texture": [
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
                       "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
                   ],
                   "credits": "SQ981"
