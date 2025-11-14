@@ -735,15 +735,7 @@
                 "Engine texture"
             ]
         },
-        "29": {"2857": {
-            "name": "Lokheed Martin F22 Raptor",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture",
-                "Metallic Roughness shader"
-            ]
-        },
+        "29": {
             "name": "Dassault Rafale",
             "liveries": [
                 {
