@@ -312,14 +312,7 @@
                 "Texture"
             ]
         },
-        "2871": {"239": {
-            "name": "Airbus a350-900",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture"
-            ]
-        },
+        "2871": {
             "name": "Airbus a320neo",
             "liveries": [
             ],
