@@ -1,7 +1,7 @@
 {
-    "name": "🎃 Halloween Livery Competition 2025 👻",
+    "name": "SQ981's Livery Pack",
     "color": "white",
-    "bgcolor": "black",
+    "bgcolor": "white",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -129,6 +129,13 @@
         "18": {
             "name": "Sukhoi Su-35 Flanker",
             "liveries": [
+                {
+                    "name": "Sol 1 \"Archange\"",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Su35-Sol1.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
@@ -238,6 +245,20 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": [
+              {
+                  "name":  "Pan Am",
+                  "texture": [
+                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/A359-Pan-Am.png",
+                  ],
+                  "credits": "SQ981"
+                },
+                {
+                  "name":  "Polaris",
+                  "texture": [
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png",
+                  ],
+                  "credits": "SQ981"
+              }
             ],
             "labels": [
                 "Texture"
@@ -336,11 +357,6 @@
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [
-                {
-                    "name": "Ryanair Spooky Low Fares (EI-SPK)",
-                    "texture": ["https://i.ibb.co/xtdWFFRT/image.png"],
-                    "credits": "luca b"
-                }
             ],
             "labels": [
                 "Texture"
@@ -466,6 +482,22 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+              {
+                  "name":  "Garuda Indonesia (Skyteam)",
+                  "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/garuda_skyteam2.png"
+                  ],
+                  "credits": "SQ981"
+              },
+              {
+                  "name":  "Qatar (Oneworld)",
+                  "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/B77W-qatar-oneworld.png"
+                  ],
+                  "credits": "SQ981 and AusboyX"
+              }
             ],
             "labels": [
                 "Specular shader",
@@ -524,6 +556,14 @@
             "labels": [
                 "Texture"
             ]
+        },"25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
         },
         "5": {
             "name": "Embraer Phenom100",
@@ -554,6 +594,13 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
+                {
+                "name": "Republic of Singapore Air Force (50th Anniversary)",
+                    "texture": [
+                    "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/RSAF-A330MRTT.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
@@ -606,11 +653,6 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
-                {
-                    "name": "Lufthauntsa (D-READ)",
-                    "texture": ["https://raw.githubusercontent.com/RYANAIR5719/GeoFS-Liveries-Storage/refs/heads/main/boeing/747/-8i/_fictional/lufthauntsa.jpg"],
-                    "credits": "RYANAIR5719"
-                }
             ],
             "labels": [
                 "Texture",
@@ -622,12 +664,12 @@
             "name": "Lokheed Martin F22 Raptor",
             "liveries": [
                 {
-                    "name": "Jack-O-Raptor  AK-AF105",
+                    "name": "Strider 1 \"Trigger\"",
                     "texture": [
-                        "https://i.ibb.co/ksfrKV2h/image.png",
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/F22-Strider-1.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/f22/shaders/simple.png"
                     ],
-                    "credits": "Raptor4001"
+                    "credits": "SQ981"
                 }
             ],
             "labels": [
@@ -662,13 +704,6 @@
         "5229": {
             "name": "Lokheed Martin F35B Lightning II",
             "liveries": [
-                {
-                    "name": "Duo Repa",
-                    "texture": [
-                        "https://i.ibb.co/hJvsm8FM/image.png"
-                    ],
-                    "credits": "AusboyX"
-                }
             ],
             "labels": [
                 "Texture"
@@ -703,6 +738,16 @@
         "29": {
             "name": "Dassault Rafale",
             "liveries": [
+                {
+                    "name": "Erusean Royal Navy (SACS)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/SACS.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/specular/Image_2.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+                    ],
+                "credits": "SQ981"
+                },
             ],
             "labels":[
                 "Normal map",
@@ -749,11 +794,6 @@
         "5347": {
             "name": "Dessault Mirage F1",
             "liveries": [
-                {
-                    "name": "Noctu N555MW Midnight Wings",
-                    "texture": ["https://i.ibb.co/fdDMWmKn/Mirage-F1-Halloween-Scheme.png"],
-                    "credits": "Nimbus"
-                }
             ],
             "labels": [
                 "Texture"
