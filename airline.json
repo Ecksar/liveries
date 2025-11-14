@@ -556,14 +556,6 @@
             "labels": [
                 "Texture"
             ]
-        },"25": {
-            "name": "Boeing b777-300ER",
-            "liveries": [
-            ],
-            "labels": [
-                "Specular shader",
-                "Texture"
-            ]
         },
         "5": {
             "name": "Embraer Phenom100",
