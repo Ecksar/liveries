@@ -247,16 +247,12 @@
             "liveries": [
               {
                   "name":  "Pan Am",
-                  "texture": [
-                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/A359-Pan-Am.png",
-                  ],
+                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/A359-Pan-Am.png"],
                   "credits": "SQ981"
                 },
                 {
                   "name":  "Polaris",
-                  "texture": [
-                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png",
-                  ],
+                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png"],
                   "credits": "SQ981"
               }
             ],
@@ -588,9 +584,7 @@
             "liveries": [
                 {
                 "name": "Republic of Singapore Air Force (50th Anniversary)",
-                    "texture": [
-                    "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/RSAF-A330MRTT.png"
-                    ],
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/RSAF-A330MRTT.png"],
                     "credits": "SQ981"
                 }
             ],
@@ -739,7 +733,7 @@
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
                 "credits": "SQ981"
-                },
+                }
             ],
             "labels":[
                 "Normal map",
