@@ -299,6 +299,7 @@
             ]
         },
         "2871": {
+            "liveries": [
             "name": "Airbus a320neo",
             "liveries": [
             ],
@@ -429,10 +430,10 @@
                   "credits": "SQ981"
                 },
                 {
-                  "name":  "Polaris",
+                  "name":  "Nordstar",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png"
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-a359.png"
                   ],
                   "credits": "SQ981"
               }
@@ -555,6 +556,11 @@
         "5073": {
             "name": "Bombardier Learjet45",
             "liveries": [
+                {
+                    "name":  "Nordstar",
+                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-learjet.png"],
+                  "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
@@ -933,6 +939,28 @@
         "5551": {
             "name": "Comac C919",
             "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5211": {
+            "name": "Boeing 747SP",
+            "liveries": [
+                {
+                    "name": "Pan Am (Clipper Mayflower)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n530pa.png"
+                    ],
+                    "credits": "luca b"
+                },
+                {
+                    "name": "Pan Am (Clipper Freedom)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n531pa.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
